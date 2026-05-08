@@ -28,6 +28,7 @@ body {
     --hr-thickness: 2px;
 
     --link-decoration: underline;
+    --caret-color: var(--text-selection);
 
 }
 
